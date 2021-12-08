@@ -22,5 +22,5 @@ Below are the results:
 
 ## SUMMARY 
 There is no evidence that for positivity bias for Vine and non-vine program due to lack on vine review data. Simply running describe will show the existence of data for non vine (unpaid program) and lack of data for vine (paid program).
-![myimage-alt-tag](./Resources/summary.png) 
+![myimage-alt-tag](./Resources/Summary.png) 
    
